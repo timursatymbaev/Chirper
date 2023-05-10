@@ -1,4 +1,4 @@
 # Chirper
 Chirper application from Laravel Bootcamp.
 
-* more description will be added later *
+Chirper is a social commenting application that allows users to share their thoughts and ideas with others. With Chirper, users can post comments on various topics and engage in meaningful discussions with other users. The platform provides a user-friendly interface that allows users to easily navigate through the application and view comments from different people. Users can also customize their profile and follow other users to keep track of their comments. Chirper encourages users to express their opinions freely while maintaining a respectful and inclusive environment. Whether it's discussing the latest news, sharing personal experiences, or simply connecting with like-minded individuals, Chirper provides a platform for users to share their voices and engage in vibrant conversations.
